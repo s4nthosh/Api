@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checkbox": true,
+      "content": "welcome to the page"
+    },
+    {
+      "id": "2",
+      "checkbox": true,
+      "content": "create your list"
+    },
+    {
+      "id": "3",
+      "checkbox": true,
+      "content": "change it later"
+    },
+    {
+      "id": "31",
+      "checkbox": true,
+      "content": "sample"
+    }
+  ]
+}
